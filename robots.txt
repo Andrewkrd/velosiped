@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /css/
 Disallow: /js/
-Sitemap: http://bassein-krasnodar.ru/sitemap.xml
+Sitemap: http://velosipedy-krasnodar.ru/sitemap.xml
